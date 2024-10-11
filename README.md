@@ -4,7 +4,7 @@
 
 💻 Computer Science student
 
-<img src="[https://example.com/image1.png](https://accionsocial.ucr.ac.cr/sites/default/files/herramienta/imagenes/2020-12/Logo%20UCR%20transparentePNG.PNG)" alt="Costa Rican" width="20" height="20"/> University of Costa Rica
+<img src="https://accionsocial.ucr.ac.cr/sites/default/files/herramienta/imagenes/2020-12/Logo%20UCR%20transparentePNG.PNG" alt="UCR" width="20" height="20"/> University of Costa Rica
 
 📫 angiesolis2311@gmail.com
 
