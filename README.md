@@ -1,7 +1,5 @@
 <h1 align="center">Hi there. I'm Angie Solís</h1>
 
-🇨🇷 Costa Rican
-
 💻 Computer Science student
 
 <img src="https://accionsocial.ucr.ac.cr/sites/default/files/herramienta/imagenes/2020-12/Logo%20UCR%20transparentePNG.PNG" alt="UCR" width="20" height="15"/> University of Costa Rica
